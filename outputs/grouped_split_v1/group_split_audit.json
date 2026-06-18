@@ -1,0 +1,143 @@
+{
+  "group_audit": {
+    "Anthracnose": {
+      "num_images": 500,
+      "num_groups": 483,
+      "max_group_size": 2,
+      "groups_gt1": 17
+    },
+    "Bacterial Canker": {
+      "num_images": 500,
+      "num_groups": 495,
+      "max_group_size": 2,
+      "groups_gt1": 5
+    },
+    "Cutting Weevil": {
+      "num_images": 500,
+      "num_groups": 241,
+      "max_group_size": 6,
+      "groups_gt1": 241
+    },
+    "Die Back": {
+      "num_images": 500,
+      "num_groups": 489,
+      "max_group_size": 2,
+      "groups_gt1": 11
+    },
+    "Gall Midge": {
+      "num_images": 500,
+      "num_groups": 491,
+      "max_group_size": 3,
+      "groups_gt1": 8
+    },
+    "Healthy": {
+      "num_images": 500,
+      "num_groups": 495,
+      "max_group_size": 2,
+      "groups_gt1": 5
+    },
+    "Powdery Mildew": {
+      "num_images": 500,
+      "num_groups": 496,
+      "max_group_size": 3,
+      "groups_gt1": 3
+    },
+    "Sooty Mould": {
+      "num_images": 500,
+      "num_groups": 498,
+      "max_group_size": 2,
+      "groups_gt1": 2
+    }
+  },
+  "split_audit": {
+    "Anthracnose": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 344,
+      "val_groups": 69,
+      "test_groups": 70
+    },
+    "Bacterial Canker": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 348,
+      "val_groups": 73,
+      "test_groups": 74
+    },
+    "Cutting Weevil": {
+      "train": 350,
+      "val": 76,
+      "test": 74,
+      "train_groups": 172,
+      "val_groups": 35,
+      "test_groups": 34
+    },
+    "Die Back": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 346,
+      "val_groups": 71,
+      "test_groups": 72
+    },
+    "Gall Midge": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 347,
+      "val_groups": 72,
+      "test_groups": 72
+    },
+    "Healthy": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 348,
+      "val_groups": 73,
+      "test_groups": 74
+    },
+    "Powdery Mildew": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 348,
+      "val_groups": 74,
+      "test_groups": 74
+    },
+    "Sooty Mould": {
+      "train": 350,
+      "val": 75,
+      "test": 75,
+      "train_groups": 349,
+      "val_groups": 74,
+      "test_groups": 75
+    }
+  },
+  "overlap_audit": {
+    "group_id": {
+      "train_val_overlap": 0,
+      "train_test_overlap": 0,
+      "val_test_overlap": 0
+    },
+    "clean_stem": {
+      "train_val_overlap": 0,
+      "train_test_overlap": 0,
+      "val_test_overlap": 0
+    },
+    "ahash": {
+      "train_val_overlap": 0,
+      "train_test_overlap": 0,
+      "val_test_overlap": 0
+    },
+    "dhash": {
+      "train_val_overlap": 0,
+      "train_test_overlap": 0,
+      "val_test_overlap": 0
+    }
+  },
+  "num_train": 2800,
+  "num_val": 601,
+  "num_test": 599
+}
