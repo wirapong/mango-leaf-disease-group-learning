@@ -1,0 +1,42 @@
+{
+  "device": "cpu",
+  "model": "efficientnetb0",
+  "image_size": 224,
+  "load_ms": 403.5709999734536,
+  "single_image": {
+    "n_iters": 100,
+    "mean_ms": 25.30002999934368,
+    "std_ms": 1.3834641184422753,
+    "min_ms": 23.504999990109354,
+    "p50_ms": 24.605478974990547,
+    "p95_ms": 27.60181007324718,
+    "max_ms": 29.0189579827711
+  },
+  "single_image_throughput_img_per_s": 39.52564483227654,
+  "batch_throughput": [
+    {
+      "batch_size": 1,
+      "batch_mean_ms": 24.668953003711067,
+      "per_img_ms": 24.668953003711067,
+      "throughput_img_per_s": 40.536783212873495
+    },
+    {
+      "batch_size": 4,
+      "batch_mean_ms": 39.27303336095065,
+      "per_img_ms": 9.818258340237662,
+      "throughput_img_per_s": 101.85105803355688
+    },
+    {
+      "batch_size": 8,
+      "batch_mean_ms": 58.19279158701344,
+      "per_img_ms": 7.27409894837668,
+      "throughput_img_per_s": 137.47407164748074
+    },
+    {
+      "batch_size": 16,
+      "batch_mean_ms": 96.08326680609025,
+      "per_img_ms": 6.005204175380641,
+      "throughput_img_per_s": 166.52223151706826
+    }
+  ]
+}
