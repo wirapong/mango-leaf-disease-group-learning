@@ -1,0 +1,50 @@
+{
+  "Anthracnose": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211008_124249 (Custom).jpg",
+    "pred_class": "Anthracnose",
+    "confidence": 0.9999979734420776,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Anthracnose.png"
+  },
+  "Bacterial Canker": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134850 (Custom).jpg",
+    "pred_class": "Bacterial Canker",
+    "confidence": 0.9999850988388062,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Bacterial_Canker.png"
+  },
+  "Cutting Weevil": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161207 (Custom).jpg",
+    "pred_class": "Cutting Weevil",
+    "confidence": 0.9675390124320984,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Cutting_Weevil.png"
+  },
+  "Die Back": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162141 (Custom).jpg",
+    "pred_class": "Die Back",
+    "confidence": 0.999998927116394,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Die_Back.png"
+  },
+  "Gall Midge": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162521 (Custom).jpg",
+    "pred_class": "Gall Midge",
+    "confidence": 0.9968024492263794,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Gall_Midge.png"
+  },
+  "Healthy": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125451 (Custom).jpg",
+    "pred_class": "Healthy",
+    "confidence": 0.9956415891647339,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Healthy.png"
+  },
+  "Powdery Mildew": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121741 (Custom).jpg",
+    "pred_class": "Powdery Mildew",
+    "confidence": 0.9999997615814209,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Powdery_Mildew.png"
+  },
+  "Sooty Mould": {
+    "image": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122302 (Custom).jpg",
+    "pred_class": "Sooty Mould",
+    "confidence": 0.9970864653587341,
+    "gradcam_file": "/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/outputs/gradcam_v1/gradcam_Sooty_Mould.png"
+  }
+}
