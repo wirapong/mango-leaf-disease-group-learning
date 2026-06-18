@@ -1,0 +1,35 @@
+{
+  "class_names": [
+    "Anthracnose",
+    "Bacterial Canker",
+    "Cutting Weevil",
+    "Die Back",
+    "Gall Midge",
+    "Healthy",
+    "Powdery Mildew",
+    "Sooty Mould"
+  ],
+  "label_to_id": {
+    "Anthracnose": 0,
+    "Bacterial Canker": 1,
+    "Cutting Weevil": 2,
+    "Die Back": 3,
+    "Gall Midge": 4,
+    "Healthy": 5,
+    "Powdery Mildew": 6,
+    "Sooty Mould": 7
+  },
+  "id_to_label": {
+    "0": "Anthracnose",
+    "1": "Bacterial Canker",
+    "2": "Cutting Weevil",
+    "3": "Die Back",
+    "4": "Gall Midge",
+    "5": "Healthy",
+    "6": "Powdery Mildew",
+    "7": "Sooty Mould"
+  },
+  "image_size": 224,
+  "preprocess": "tensorflow.keras.applications.efficientnet.preprocess_input",
+  "model_family": "efficientnetb0"
+}

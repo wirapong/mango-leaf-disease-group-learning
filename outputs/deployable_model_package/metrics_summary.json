@@ -1,0 +1,12 @@
+{
+  "model": "efficientnetb0",
+  "accuracy": 0.9983333333333333,
+  "precision_macro": 0.9983552631578947,
+  "recall_macro": 0.9983333333333333,
+  "f1_macro": 0.9983332592559669,
+  "precision_weighted": 0.9983552631578948,
+  "recall_weighted": 0.9983333333333333,
+  "f1_weighted": 0.9983332592559668,
+  "image_size": 224,
+  "batch_size": 16
+}
