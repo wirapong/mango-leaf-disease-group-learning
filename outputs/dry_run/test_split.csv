@@ -1,0 +1,601 @@
+filepath,label
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162654 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123331 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122037 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160118 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121521 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161605 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162422 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_160531 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_165918 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161657 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123241 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123108 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123922 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_120922 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160856 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155218 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162700 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135958_1 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_121341 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155323 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125056 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164424 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_143731 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122130 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161846 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_141741 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125335 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161321 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161957 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_144903 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_170355 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140437 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162844 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153059 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160817 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161246 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123138 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142619 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_143311 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140343 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162455 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_121138 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_162509 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123257 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_120815 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161231 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162415 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_003457 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_154835 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_120839 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161534 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164125 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121854 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161639 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164030 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162055 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161515 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160934 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121918 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122220 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_002755 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125301 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121901 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153429 - Copy - Copy (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_165848 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134822 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_115212 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125132 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122126 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162445 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122514 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162904 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134644 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143213 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124913 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161544 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161527 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164457 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_141303 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_121300 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_165907 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_122459 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135534 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161506 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162040 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_124458 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164406 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_170139 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164427 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164852 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162838 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122229 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_134655(0) (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170214 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125336 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_122238 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_121016 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123124 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143041 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142601 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135426 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164502 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162212 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122651 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140610 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161309 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122206 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_145125 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_002858 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142747 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125609 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162553 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121436 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164000 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160409 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135400 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_160831 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161127 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153209 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_154939 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162208 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_193633 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164326 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_121322 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163822 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162505 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161623 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134812 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121238 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_145117 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153239 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122307 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162131 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_133430 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162553 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123657 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142707 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_120816 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123629 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121754 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_134610 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161622 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121644 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_145402 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122517 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161609 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164254 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162058 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161755 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121547(0) (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_003200 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143228 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140029 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140702 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140409 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161448 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121410 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161412 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162016 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135023 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162612 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155022 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163910 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123948 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162454 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162854 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_150341 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_130152 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_133757 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_124953 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_152913 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160702 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160924 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161458 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162136 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161630 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142847 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140521 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122723 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164057 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162456 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162804 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_160904(0) (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162355 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125839 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_130100 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163810 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140429 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122218 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_143723 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161345 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162912 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161533 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164010 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_154103 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162849 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122026 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155406 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125417 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125438 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_143250 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161605 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_162503 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162454(0) (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163746 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_133745 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142907 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125233 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125423 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155427 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135515 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161132 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142914 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_184028 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143223 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170211 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140510 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_143329 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122400 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125054 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_193510 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_150513 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_152941 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162521 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122059 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122322 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124155 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162842_1 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160721 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161001 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_170409 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140526 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155548 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163834 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164413 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_121443 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125957 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_155021 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163128 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125040 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122351 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142050 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_160618 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140918 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153045 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162132 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163843 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161605 (Custom)(1).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_120849 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170146 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_160519 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123327 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135243 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162526 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134420 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_145222 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124843 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162011 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163005 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170006 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123908 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_154816 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123704 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162133 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160338 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162428 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162424 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_165847 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122318 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155942 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_155505 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211008_124345 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_134641 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122018 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140515 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123227 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_154853 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_133407 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161908(0) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_141548 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_130143 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123551 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_165343 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153105 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155725 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155927 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162131(0) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161418 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134855 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161321 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161329 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161859 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_160614 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122953 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_143042 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_171148 - Copy - Copy - Copy (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_185920 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211008_125152 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161244 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121832 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153345 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121301 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161640 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160857 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155437 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162105 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_154937 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134716 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161952 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142554 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140604 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121857 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163744 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122142 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160931 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123721 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164346 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_171156 - Copy - Copy - Copy (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161339 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162905 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_141614 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160432 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161248 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164644 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_170139 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161817 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160920 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135253 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162400 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125951 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122004 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123012 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155750 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164425 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_153404 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164544 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161839 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_182142 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123215 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163732 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123457 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121741 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162432 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162158 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161859(0) (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123516 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155526 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124122 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121811 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134750 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164330 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162127 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161058 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143345 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_002828 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160721 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162600 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161606 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122114 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_155513 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164006 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170018 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_131115 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_160005 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140405 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142545 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_170546 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_143729 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163726 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162744 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123542 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162454 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164555 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170216 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_161533 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135221 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_162055 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_123937 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142756 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142856 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_143057 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134808 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162112 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122748 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143027 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_122308 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124739 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162216 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162457 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140551 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162428(0) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125209 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161316 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161938 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162051 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162532 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142827 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121919 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140313 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162445 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164921 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143050 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123514 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122256 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_124107 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163940 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164214 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164512 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170032 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143134 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164312 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_194600 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122000 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143236 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140316 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121529 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142613 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161054 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162153 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125951 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162512 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161424(0) (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160528 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122158 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_142738 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140304 - Copy (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162602 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122458 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161425 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121839 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135958 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170308 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_164123 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123543 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155028 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160849 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161945 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163614 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161400 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122415 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_115652 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162239 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162155 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161614 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_182214 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162412 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161845 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161650(0) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155058 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161339 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162501(0) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_165137 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161418(0) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123701 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161132 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161643 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134850 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_190443 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_124937 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161323 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164123 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162502 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121828 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_145152 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162150 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161619 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_170535 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163908 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_145351 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164349 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162456 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121559 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140834 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125053 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162607 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_194802 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_152949 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123150 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125753 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122941 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121949 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_165826 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_154139 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122509 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160621 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135454 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122239 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_154834 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163047 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161418 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_155357 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140530 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135939 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162656 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161959 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162432 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125500 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_170534 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_160810 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_143110 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135318 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163908 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121729 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164032 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_162027 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_170155 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_170725 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121906 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162058 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163038 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_002138 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_134336 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163936 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162802 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160738 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_134649 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162123 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164312 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161654 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_123612 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121946 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_161057 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124457 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211028_003454 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160608 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161828 (Custom) (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211008_125110 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_160143 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135853 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135334 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121851 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_162708 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_122502 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_160015 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125108 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125331 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_165903 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_164041 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162422 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_162833 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162741 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_160001 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160506 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_130050 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140846 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_121820 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_165123 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211212_143133 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163050 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160910 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_183432 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_170533 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161126 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_194857 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_125024 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162059 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_124941 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_141150 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_163859 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_130300 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_162625 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211211_154148 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162151 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161625 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/20211109_122128 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_155541 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_140320 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161830 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164358 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163002 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161506 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140926 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_124136 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/IMG_20211011_161322 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_133205 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_164032_1 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161221 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_122327 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_162212 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/20211129_160824 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163132 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_163828 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_121655 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135404 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_121224 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Die Back/IMG_20211027_193553 (Custom).jpg,Die Back
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_161118 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Sooty Mould/IMG_20211108_120832 (Custom).jpg,Sooty Mould
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_123502 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_121200 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_133409 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211008_124256 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_140006 (Custom).jpg,Bacterial Canker
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Powdery Mildew/IMG_20211107_125410 (Custom).jpg,Powdery Mildew
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162425 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Anthracnose/20211011_134556 (Custom).jpg,Anthracnose
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Gall Midge/IMG_20211106_165815 (Custom).jpg,Gall Midge
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Healthy/20211231_162026 (Custom).jpg,Healthy
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Cutting Weevil/20211011_161505 (Custom).jpg,Cutting Weevil
+/Users/wirapongc/Library/CloudStorage/GoogleDrive-wirach@kku.ac.th/My Drive/OpenClawMacMini/Mango Plant Disease/dataset/Bacterial Canker/IMG_20211106_135002 (Custom).jpg,Bacterial Canker
