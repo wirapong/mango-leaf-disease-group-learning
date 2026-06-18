@@ -58,7 +58,7 @@ A reproducible deep-learning pipeline and a live web application for diagnosing 
 
 ## 🧪 Dataset
 
-- **Source formulation:** MangoLeafBD (8 classes × 500 images = 4,000 JPGs).
+- **Source formulation:** MangoLeafBD (8 classes × 500 images = 4,000 JPGs). https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset/data
 - **Classes:** Anthracnose · Bacterial Canker · Cutting Weevil · Die Back · Gall Midge · Healthy · Powdery Mildew · Sooty Mould.
 - The dataset itself is **not redistributed** in this repository. Please obtain the original MangoLeafBD release from its authors and place it under `dataset/<class_name>/*.jpg` before running the experiments.
 
